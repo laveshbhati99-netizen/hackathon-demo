@@ -1,2 +1,1 @@
-# hackathon-demo
-Hackathon project developed to solve the given problem statement using a simple and effective approach.
+this project we have created for the students to track their daily expenses to balance them financially
